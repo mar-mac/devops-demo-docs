@@ -20,7 +20,7 @@ in the AWS domain we will use the following services:
 * EC2
 * RDS
 * DynamoDB
-* S3 
+* S3 (for configuration files and web app)
 * Device Farm
 
 Plus we will use the following technologies to orchestrate the pipeline, the vm image definition and the infrastructure:
