@@ -1,2 +1,2 @@
-# devops-demo-pmo
-Repository for DevOps Project Management documentations
+# devops-demo-docs
+Repository for DevOps documentations
